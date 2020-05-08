@@ -37,7 +37,7 @@ public class Main {
         //
         //Criando um objeto e salvando no banco de dados
         //
-        /*
+        
         session = HibernateUtil.getSessionFactory().openSession();
         tx = session.beginTransaction();
         
@@ -48,7 +48,7 @@ public class Main {
         
         session.save(pess);
         tx.commit();
-        */
+        
         
         
         
