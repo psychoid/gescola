@@ -4,3 +4,7 @@ Esse projeto de software da disciplina de PPO tem por objetivo levar os alunos a
 Aqui temos a estrutura proposta com alguns objetos, framework de persistência de dados hibernate já instalada e uma tela principal.
 
 Cada grupo irá trabalhar seu projeto e apresentar o mesmo para avaliação de nota na disciplina.
+
++ Java
++ Hibernate/JPA
++ SQLite3
